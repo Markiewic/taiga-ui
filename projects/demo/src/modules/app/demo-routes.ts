@@ -132,6 +132,7 @@ export const DemoRoute = {
     Tabs: '/navigation/tabs',
     Tag: '/components/tag',
     Textarea: '/components/textarea',
+    TextareaLegacy: '/components/textarea-legacy',
     PrimitiveTextfield: '/components/primitive-textfield',
     PdfViewer: '/components/pdf-viewer',
     Pin: '/components/pin',
